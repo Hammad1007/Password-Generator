@@ -1,2 +1,2 @@
 # Password-Generator
-A Pyhton project to generate passwords
+A Python project to generate passwords
